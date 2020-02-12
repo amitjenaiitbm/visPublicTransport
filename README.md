@@ -3,4 +3,8 @@ We are exploring the possibility of communicating the associated uncertainty wit
 
 This is an ongoing work.
 
+Publications:
+1. At CityVis workshop, IEEE VIS 2019. Workshop paper can be found at https://github.com/amitjenaiitbm/visPublicTransport/blob/master/jena-cityvis-workshop-2019.pdf.
+2. Stay tuned!
 
+![User study timeline](https://github.com/amitjenaiitbm/visPublicTransport/blob/master/timeline.jpg)
